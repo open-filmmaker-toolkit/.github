@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Free tools for the paperwork behind a documentary. No accounts, no cloud, no subscriptions.</b>
+  <b>Free tools for the paperwork behind making a film. No accounts, no cloud, no subscriptions.</b>
 </p>
 
 <p align="center">
